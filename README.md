@@ -24,4 +24,3 @@ http://kolumnin.disqus.com
 http://sites.google.com/site/kolumnin
 https://sites.google.com/site/defenceunited/event-calendar
 http://sites.google.com/site/
-#qWhkf.html
