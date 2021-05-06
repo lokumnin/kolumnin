@@ -1,11 +1,11 @@
 My GitHub organization draft.
 
-https://github.com/kolumnin
+[kolumnin](https://github.com/kolumnin)
 
-https://github.com/lokumnin
+[Lokumnin](https://github.com/lokumnin)
 
-https://github.com/klmnniou
+[klmnniou](https://github.com/klmnniou)
 
-http://kolumnin.github.io/
+[kolumnin](http://kolumnin.github.io/)
 
 
