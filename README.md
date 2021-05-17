@@ -1,10 +1,10 @@
 My GitHub organization lokumnin.
 
 
-[Lokumnin](https://github.com/lokumnin)
+[Lokumnin](https://lokumnin.github.io)
 
-[klmnniou](https://github.com/klmnniou)
+[klmnniou](https://klmnniou.github.io)
 
-[kolumnin](http://github.com/kolumnin)
+[kolumnin](http://lokumnin.github.io/kolumnin)
 
 
